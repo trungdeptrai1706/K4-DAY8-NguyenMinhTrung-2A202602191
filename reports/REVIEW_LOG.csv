@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0182.jpg,xe rất nhỏ ở xa,accepted,Khung do AI vẽ khá sát dù khó nhìn
+1,frame_0326.jpg,xe tải bên phải,accepted,Khung bao quanh đúng toàn bộ thân xe
+1,frame_0331.jpg,xe đi làn giữa,accepted,AI nhận diện đúng xe đang di chuyển này

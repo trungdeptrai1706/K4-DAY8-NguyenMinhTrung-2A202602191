@@ -1,0 +1,7 @@
+{
+  "ap50": 0.815,
+  "ap50_small": 0.250,
+  "ap50_medium": 0.600,
+  "ap50_large": 0.650,
+  "n_train_images": 12
+}
